@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SourabhMehta
 - 👀 I’m interested in data driven solutions for real life problems
-- 💞️ I’m looking for jobs related to data science/business analytics/data analytics
 - 📫 Anyone intrested can contact me on: 
      + email- sourabhmehta06@gmail.com 
      + [linkedin](https://www.linkedin.com/in/sourabh-mehta17/)
